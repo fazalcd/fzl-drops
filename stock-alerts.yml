@@ -1,0 +1,39 @@
+name: Stock Drop Alerts
+
+on:
+  schedule:
+    # Every 15 minutes, 13:00-21:59 UTC, Mon-Fri.
+    # Covers 9:30am-4:00pm ET across both EDT and EST, with a
+    # small buffer on each side (the script just no-ops for
+    # tickers it has no fresh data for).
+    - cron: "*/15 13-21 * * 1-5"
+  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+
+jobs:
+  check-alerts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # needed to commit the updated alert_state.json
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run alert check
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python check_alerts.py
+
+      - name: Persist alert state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add alert_state.json
+          git diff --staged --quiet || git commit -m "Update alert state [skip ci]"
+          git push
