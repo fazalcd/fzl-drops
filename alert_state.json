@@ -1,32 +1,9 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "alerted": [
-    "ADBE",
-    "AMZN",
-    "ARKK",
-    "ASTS",
-    "AVGO",
-    "CEG",
-    "CLYM",
-    "DAL",
-    "GOOG",
-    "GOOGL",
     "IOT",
-    "MP",
-    "MSFT",
-    "NKE",
-    "ORCL",
-    "PATH",
-    "RGTI",
-    "RYCEY",
-    "SMCI",
-    "SNDK",
-    "UBER",
-    "BB",
-    "RKLB",
-    "NEM",
-    "NOW",
-    "QCOM",
-    "ZS"
+    "MH",
+    "NOC",
+    "RTX"
   ]
 }
