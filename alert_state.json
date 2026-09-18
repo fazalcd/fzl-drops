@@ -1,9 +1,33 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "alerted": [
+    "ADBE",
+    "ASTS",
+    "AVAV",
+    "CEG",
+    "CMC",
+    "CRWD",
+    "DDOG",
+    "INTC",
     "IOT",
-    "MH",
-    "NOC",
-    "RTX"
+    "IRDM",
+    "LHX",
+    "META",
+    "MP",
+    "MRVL",
+    "NET",
+    "NKE",
+    "NOW",
+    "NTAP",
+    "ORCL",
+    "PANW",
+    "PATH",
+    "QCOM",
+    "RGTI",
+    "RKLB",
+    "SMCI",
+    "SYM",
+    "TEM",
+    "VST"
   ]
 }
