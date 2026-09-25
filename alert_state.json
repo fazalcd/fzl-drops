@@ -1,21 +1,19 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "alerted": [
     "ADBE",
-    "AVGO",
+    "AVAV",
+    "BB",
     "CLYM",
-    "IOT",
-    "MH",
-    "MSFT",
-    "NEM",
-    "NOK",
-    "NOW",
-    "ORCL",
-    "PATH",
-    "QCOM",
-    "SNDK",
     "CRWD",
-    "NOC",
-    "RTX"
+    "INTC",
+    "IOT",
+    "META",
+    "MH",
+    "NET",
+    "PANW",
+    "VST",
+    "VVX",
+    "ZS"
   ]
 }
