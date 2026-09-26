@@ -1,7 +1,8 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "alerted": [
     "ADBE",
+    "ARKK",
     "AVAV",
     "BB",
     "CLYM",
@@ -11,14 +12,11 @@
     "META",
     "MH",
     "NET",
-    "PANW",
-    "VST",
-    "VVX",
-    "ZS",
-    "ARKK",
     "NOW",
     "ORCL",
+    "PANW",
     "PATH",
-    "SYM"
+    "SYM",
+    "ZS"
   ]
 }
