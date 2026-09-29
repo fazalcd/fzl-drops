@@ -2,12 +2,13 @@ name: Stock Drop Alerts
 
 on:
   schedule:
-    # Every 15 minutes, 13:00-21:59 UTC, Mon-Fri.
-    # Covers 9:30am-4:00pm ET across both EDT and EST, with a
-    # small buffer on each side (the script just no-ops for
-    # tickers it has no fresh data for).
-    - cron: "*/15 13-21 * * 1-5"
-  workflow_dispatch: {} # lets you trigger a run manually from the Actions tab
+    # Backup schedule only - offset off the congested :00/:15/:30/:45 marks.
+    # This alone is NOT relied on for timely execution; the external
+    # cron-job.org trigger (calling workflow_dispatch below) is the
+    # primary schedule. This just acts as a safety net in case the
+    # external trigger ever fails to fire.
+    - cron: "8,23,38,53 13-21 * * 1-5"
+  workflow_dispatch: {} # triggered externally by cron-job.org on a reliable schedule
 
 jobs:
   check-alerts:
