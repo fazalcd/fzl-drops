@@ -26,7 +26,9 @@
     "VST": 4,
     "DAL": 1,
     "NET": 1,
-    "GEV": 1
+    "GEV": 1,
+    "AMD": 1,
+    "NOK": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
