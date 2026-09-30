@@ -29,9 +29,10 @@
     "GEV": 1,
     "AMD": 1,
     "NOK": 2,
-    "LLY": 1,
+    "LLY": 2,
     "NEM": 1,
-    "UBER": 1
+    "UBER": 1,
+    "AVGO": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
