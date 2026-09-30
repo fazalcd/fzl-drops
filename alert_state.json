@@ -29,7 +29,8 @@
     "GEV": 1,
     "AMD": 1,
     "NOK": 2,
-    "LLY": 1
+    "LLY": 1,
+    "NEM": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
