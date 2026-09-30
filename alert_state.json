@@ -16,7 +16,14 @@
     "SMCI": 1,
     "SYM": 1,
     "TEM": 2,
-    "VVX": 1
+    "VVX": 1,
+    "CEG": 5,
+    "META": 1,
+    "MRVL": 1,
+    "NOC": 4,
+    "ORCL": 1,
+    "RTX": 1,
+    "VST": 4
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
