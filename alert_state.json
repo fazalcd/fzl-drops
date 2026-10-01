@@ -17,7 +17,7 @@
     "VST": 1,
     "VVX": 2,
     "CRWD": 1,
-    "MP": 4,
+    "MP": 5,
     "PANW": 1,
     "ANET": 1,
     "ASTS": 2,
@@ -30,8 +30,10 @@
     "CLYM": 1,
     "MRVL": 2,
     "SMCI": 1,
-    "TEM": 1,
-    "SNDK": 1
+    "TEM": 2,
+    "SNDK": 1,
+    "AMZN": 1,
+    "GOOGL": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
