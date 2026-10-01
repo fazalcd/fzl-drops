@@ -35,7 +35,8 @@
     "AMZN": 1,
     "GOOGL": 2,
     "GOOG": 2,
-    "ORCL": 1
+    "ORCL": 1,
+    "MH": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
