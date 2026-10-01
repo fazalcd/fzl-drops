@@ -25,16 +25,17 @@
     "CMC": 2,
     "INTC": 1,
     "MU": 3,
-    "AAPL": 1,
+    "AAPL": 2,
     "AMD": 1,
     "CLYM": 1,
     "MRVL": 2,
     "SMCI": 1,
-    "TEM": 3,
+    "TEM": 5,
     "SNDK": 1,
     "AMZN": 1,
     "GOOGL": 1,
-    "GOOG": 1
+    "GOOG": 1,
+    "ORCL": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
