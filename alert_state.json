@@ -24,7 +24,13 @@
     "AVAV": 1,
     "CMC": 1,
     "INTC": 1,
-    "MU": 1
+    "MU": 2,
+    "AAPL": 1,
+    "AMD": 1,
+    "CLYM": 1,
+    "MRVL": 1,
+    "SMCI": 1,
+    "TEM": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
