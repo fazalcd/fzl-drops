@@ -15,7 +15,10 @@
     "RYCEY": 1,
     "UBER": 1,
     "VST": 1,
-    "VVX": 2
+    "VVX": 2,
+    "CRWD": 1,
+    "MP": 3,
+    "PANW": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
