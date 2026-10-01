@@ -17,8 +17,14 @@
     "VST": 1,
     "VVX": 2,
     "CRWD": 1,
-    "MP": 3,
-    "PANW": 1
+    "MP": 4,
+    "PANW": 1,
+    "ANET": 1,
+    "ASTS": 2,
+    "AVAV": 1,
+    "CMC": 1,
+    "INTC": 1,
+    "MU": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
