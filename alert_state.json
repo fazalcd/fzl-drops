@@ -14,9 +14,10 @@
     "NOC": 2,
     "SNDK": 2,
     "VVX": 1,
-    "CEG": 1,
+    "CEG": 2,
     "NOW": 1,
-    "VST": 2
+    "VST": 2,
+    "GEV": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
