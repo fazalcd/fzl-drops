@@ -12,14 +12,15 @@
     "TEM": 6,
     "NKE": 6,
     "NOC": 2,
-    "SNDK": 2,
+    "SNDK": 3,
     "VVX": 1,
     "CEG": 2,
     "NOW": 1,
     "VST": 2,
     "GEV": 1,
     "ADBE": 1,
-    "PATH": 1
+    "PATH": 1,
+    "MU": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
