@@ -13,7 +13,10 @@
     "NKE": 6,
     "NOC": 2,
     "SNDK": 2,
-    "VVX": 1
+    "VVX": 1,
+    "CEG": 1,
+    "NOW": 1,
+    "VST": 2
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
