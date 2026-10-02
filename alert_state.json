@@ -20,7 +20,9 @@
     "GEV": 1,
     "ADBE": 1,
     "PATH": 1,
-    "MU": 1
+    "MU": 1,
+    "LHX": 1,
+    "MH": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
