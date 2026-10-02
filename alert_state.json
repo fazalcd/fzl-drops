@@ -19,10 +19,11 @@
     "VST": 2,
     "GEV": 1,
     "ADBE": 1,
-    "PATH": 1,
+    "PATH": 2,
     "MU": 1,
     "LHX": 1,
-    "MH": 1
+    "MH": 1,
+    "GLD": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
