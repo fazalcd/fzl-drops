@@ -9,7 +9,11 @@
     "GOOGL": 1,
     "MP": 2,
     "QCOM": 1,
-    "TEM": 6
+    "TEM": 6,
+    "NKE": 6,
+    "NOC": 2,
+    "SNDK": 2,
+    "VVX": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
