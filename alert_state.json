@@ -10,7 +10,13 @@
     "PATH": 1,
     "RGTI": 2,
     "SNDK": 3,
-    "ZS": 1
+    "ZS": 1,
+    "ASTS": 1,
+    "INTC": 2,
+    "NOK": 1,
+    "RKLB": 2,
+    "SYM": 2,
+    "VVX": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
