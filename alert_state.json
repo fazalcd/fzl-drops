@@ -23,7 +23,8 @@
     "SMCI": 1,
     "NTAP": 3,
     "IRDM": 1,
-    "AVAV": 1
+    "AVAV": 1,
+    "DAL": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
