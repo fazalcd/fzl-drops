@@ -21,7 +21,7 @@
     "MRVL": 1,
     "QCOM": 1,
     "SMCI": 1,
-    "NTAP": 2
+    "NTAP": 3
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
