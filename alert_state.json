@@ -15,7 +15,8 @@
     "SMCI": 1,
     "CLYM": 2,
     "NKE": 1,
-    "SNDK": 1
+    "SNDK": 1,
+    "TEM": 4
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
