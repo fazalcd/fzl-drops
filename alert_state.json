@@ -16,12 +16,12 @@
     "CLYM": 3,
     "NKE": 1,
     "SNDK": 2,
-    "TEM": 13,
+    "TEM": 14,
     "CMC": 1,
     "ARKK": 2,
     "NET": 1,
     "PATH": 1,
-    "IOT": 1
+    "IOT": 2
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
