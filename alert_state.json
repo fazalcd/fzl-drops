@@ -16,9 +16,10 @@
     "CLYM": 2,
     "NKE": 1,
     "SNDK": 2,
-    "TEM": 9,
+    "TEM": 10,
     "CMC": 1,
-    "ARKK": 1
+    "ARKK": 1,
+    "NET": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
