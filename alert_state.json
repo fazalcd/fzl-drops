@@ -12,7 +12,10 @@
     "NTAP": 1,
     "QCOM": 2,
     "RKLB": 1,
-    "SMCI": 1
+    "SMCI": 1,
+    "CLYM": 1,
+    "NKE": 1,
+    "SNDK": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
