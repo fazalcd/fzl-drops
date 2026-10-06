@@ -13,14 +13,15 @@
     "QCOM": 2,
     "RKLB": 1,
     "SMCI": 1,
-    "CLYM": 2,
+    "CLYM": 3,
     "NKE": 1,
     "SNDK": 2,
     "TEM": 13,
     "CMC": 1,
     "ARKK": 2,
     "NET": 1,
-    "PATH": 1
+    "PATH": 1,
+    "IOT": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
