@@ -34,15 +34,16 @@
     "RKLB": 4,
     "SMH": 1,
     "SPMO": 1,
-    "SYM": 1,
+    "SYM": 3,
     "VST": 1,
     "AMD": 1,
     "AVGO": 1,
-    "NKE": 1,
+    "NKE": 2,
     "VVX": 1,
     "DDOG": 1,
     "LHX": 1,
-    "RTX": 1
+    "RTX": 1,
+    "NOC": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
