@@ -44,7 +44,8 @@
     "LHX": 1,
     "RTX": 1,
     "NOC": 1,
-    "UBER": 1
+    "UBER": 1,
+    "NVDA": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
