@@ -19,7 +19,7 @@
     "NEM": 2,
     "NET": 3,
     "NOC": 1,
-    "NOK": 3,
+    "NOK": 4,
     "PANW": 3,
     "QCOM": 2,
     "RGTI": 3,
@@ -44,7 +44,8 @@
     "SMCI": 3,
     "SNDK": 3,
     "MH": 2,
-    "VST": 2
+    "VST": 2,
+    "NOW": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
