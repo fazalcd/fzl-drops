@@ -41,9 +41,10 @@
     "NKE": 1,
     "NVDA": 1,
     "ORCL": 1,
-    "SMCI": 2,
+    "SMCI": 3,
     "SNDK": 3,
-    "MH": 1
+    "MH": 2,
+    "VST": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
