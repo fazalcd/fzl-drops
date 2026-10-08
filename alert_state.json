@@ -3,7 +3,7 @@
   "tiers": {
     "ADBE": 2,
     "ARKK": 2,
-    "ASTS": 3,
+    "ASTS": 4,
     "AVAV": 3,
     "BB": 8,
     "CMC": 2,
@@ -34,7 +34,7 @@
     "AVGO": 2,
     "CEG": 1,
     "CLYM": 2,
-    "INTC": 2,
+    "INTC": 3,
     "LLY": 1,
     "MRVL": 2,
     "MU": 1,
@@ -42,7 +42,7 @@
     "NVDA": 1,
     "ORCL": 1,
     "SMCI": 2,
-    "SNDK": 1
+    "SNDK": 3
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
