@@ -33,16 +33,17 @@
     "AMD": 1,
     "AVGO": 2,
     "CEG": 1,
-    "CLYM": 2,
+    "CLYM": 3,
     "INTC": 3,
-    "LLY": 3,
+    "LLY": 4,
     "MRVL": 2,
     "MU": 2,
     "NKE": 1,
     "NVDA": 1,
     "ORCL": 1,
     "SMCI": 2,
-    "SNDK": 3
+    "SNDK": 3,
+    "MH": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
