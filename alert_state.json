@@ -35,7 +35,8 @@
     "AAPL": 2,
     "QCOM": 1,
     "GEV": 1,
-    "AVAV": 1
+    "AVAV": 1,
+    "NOC": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
