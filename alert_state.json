@@ -4,7 +4,7 @@
     "AMD": 3,
     "AMZN": 2,
     "ANET": 2,
-    "ASTS": 6,
+    "ASTS": 8,
     "AVGO": 4,
     "BB": 1,
     "CEG": 4,
@@ -33,7 +33,8 @@
     "TEM": 1,
     "VST": 6,
     "AAPL": 2,
-    "QCOM": 1
+    "QCOM": 1,
+    "GEV": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
