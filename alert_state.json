@@ -8,7 +8,7 @@
     "AVGO": 4,
     "BB": 1,
     "CEG": 4,
-    "DAL": 1,
+    "DAL": 3,
     "INTC": 5,
     "IRDM": 1,
     "LLY": 1,
@@ -31,7 +31,9 @@
     "SPYG": 1,
     "SYM": 2,
     "TEM": 1,
-    "VST": 6
+    "VST": 6,
+    "AAPL": 2,
+    "QCOM": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
