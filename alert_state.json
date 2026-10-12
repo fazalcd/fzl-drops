@@ -38,7 +38,8 @@
     "DDOG": 2,
     "CEG": 2,
     "AMZN": 1,
-    "VST": 1
+    "VST": 2,
+    "IRDM": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
