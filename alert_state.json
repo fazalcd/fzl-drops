@@ -9,7 +9,7 @@
     "SNDK": 6,
     "ANET": 1,
     "BB": 3,
-    "MP": 4,
+    "MP": 5,
     "MU": 4,
     "NET": 3,
     "NOK": 3,
@@ -24,14 +24,15 @@
     "ADBE": 2,
     "CRWD": 2,
     "DAL": 1,
-    "MRVL": 2,
+    "MRVL": 3,
     "UBER": 1,
     "VVX": 1,
     "AVAV": 2,
     "AVGO": 1,
     "NVDA": 1,
     "SPMO": 1,
-    "ZS": 1
+    "ZS": 1,
+    "PATH": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
