@@ -8,7 +8,7 @@
     "SMCI": 5,
     "SNDK": 7,
     "ANET": 2,
-    "BB": 3,
+    "BB": 4,
     "MP": 5,
     "MU": 4,
     "NET": 3,
@@ -35,7 +35,8 @@
     "PATH": 1,
     "ARKK": 1,
     "CLYM": 2,
-    "DDOG": 1
+    "DDOG": 1,
+    "CEG": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
