@@ -10,7 +10,7 @@
     "AVGO": 1,
     "BB": 5,
     "CEG": 1,
-    "CLYM": 3,
+    "CLYM": 4,
     "CRWD": 4,
     "DAL": 2,
     "DDOG": 2,
@@ -44,7 +44,8 @@
     "NOC": 1,
     "CMC": 1,
     "GEV": 1,
-    "LLY": 1
+    "LLY": 1,
+    "NOW": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
