@@ -10,7 +10,7 @@
     "AVGO": 1,
     "BB": 5,
     "CEG": 1,
-    "CLYM": 1,
+    "CLYM": 2,
     "CRWD": 4,
     "DAL": 2,
     "DDOG": 2,
@@ -35,9 +35,10 @@
     "VST": 2,
     "VVX": 3,
     "ZS": 3,
-    "ASTS": 6,
-    "RTX": 1,
-    "UBER": 1
+    "ASTS": 8,
+    "RTX": 2,
+    "UBER": 1,
+    "LHX": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
