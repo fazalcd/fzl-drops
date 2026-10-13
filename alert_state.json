@@ -4,7 +4,7 @@
     "ADBE": 1,
     "AMD": 2,
     "AMZN": 1,
-    "ANET": 2,
+    "ANET": 4,
     "ARKK": 1,
     "AVAV": 4,
     "AVGO": 1,
@@ -16,8 +16,8 @@
     "DDOG": 2,
     "INTC": 3,
     "MP": 6,
-    "MRVL": 3,
-    "MU": 3,
+    "MRVL": 4,
+    "MU": 4,
     "NET": 2,
     "NOK": 4,
     "NVDA": 1,
@@ -34,7 +34,10 @@
     "TEM": 4,
     "VST": 2,
     "VVX": 3,
-    "ZS": 3
+    "ZS": 3,
+    "ASTS": 6,
+    "RTX": 1,
+    "UBER": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
