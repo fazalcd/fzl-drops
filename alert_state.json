@@ -4,7 +4,7 @@
     "ADBE": 1,
     "AMD": 2,
     "AMZN": 1,
-    "ANET": 4,
+    "ANET": 5,
     "ARKK": 1,
     "AVAV": 4,
     "AVGO": 1,
@@ -40,7 +40,8 @@
     "UBER": 1,
     "LHX": 1,
     "NEM": 1,
-    "NTAP": 1
+    "NTAP": 1,
+    "NOC": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
