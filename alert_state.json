@@ -39,9 +39,11 @@
     "RTX": 2,
     "UBER": 1,
     "LHX": 1,
-    "NEM": 1,
-    "NTAP": 1,
-    "NOC": 1
+    "NEM": 2,
+    "NTAP": 2,
+    "NOC": 1,
+    "CMC": 1,
+    "GEV": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
