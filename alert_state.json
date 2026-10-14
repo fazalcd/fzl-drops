@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
   "tiers": {
-    "ANET": 4,
+    "ANET": 5,
     "ASTS": 9,
     "AVAV": 4,
     "CLYM": 4,
@@ -39,7 +39,7 @@
     "QCOM": 3,
     "SMH": 3,
     "SNDK": 5,
-    "SYM": 7,
+    "SYM": 8,
     "VST": 7,
     "ZS": 2,
     "NKE": 1,
