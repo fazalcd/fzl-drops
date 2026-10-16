@@ -16,7 +16,14 @@
     "PANW": 1,
     "RKLB": 6,
     "SMCI": 1,
-    "SMH": 1
+    "SMH": 1,
+    "SNDK": 5,
+    "SPMO": 1,
+    "SPY": 1,
+    "SPYG": 1,
+    "SYM": 7,
+    "UBER": 2,
+    "VST": 6
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
