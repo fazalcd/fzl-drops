@@ -25,7 +25,7 @@
     "UBER": 2,
     "VST": 6,
     "CLYM": 5,
-    "IOT": 3,
+    "IOT": 4,
     "MU": 4,
     "NEM": 3,
     "QCOM": 2,
@@ -42,7 +42,8 @@
     "META": 1,
     "NOW": 1,
     "ORCL": 1,
-    "PATH": 3
+    "PATH": 3,
+    "ADBE": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
