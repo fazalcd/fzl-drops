@@ -32,18 +32,18 @@
     "QQQ": 1,
     "RGTI": 1,
     "TEM": 5,
-    "ZS": 3,
+    "ZS": 4,
     "ARKK": 1,
     "ASTS": 2,
     "AVGO": 1,
     "BB": 2,
     "GOOG": 1,
     "GOOGL": 1,
-    "META": 1,
-    "NOW": 1,
+    "META": 2,
+    "NOW": 3,
     "ORCL": 1,
-    "PATH": 3,
-    "ADBE": 1
+    "PATH": 4,
+    "ADBE": 2
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
