@@ -24,8 +24,8 @@
     "SYM": 7,
     "UBER": 2,
     "VST": 6,
-    "CLYM": 8,
-    "IOT": 6,
+    "CLYM": 9,
+    "IOT": 7,
     "MU": 4,
     "NEM": 3,
     "QCOM": 2,
@@ -49,7 +49,8 @@
     "AVAV": 1,
     "MP": 1,
     "MH": 2,
-    "DAL": 1
+    "DAL": 1,
+    "AMZN": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
