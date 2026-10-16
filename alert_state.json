@@ -34,7 +34,7 @@
     "TEM": 8,
     "ZS": 7,
     "ARKK": 4,
-    "ASTS": 7,
+    "ASTS": 8,
     "AVGO": 3,
     "BB": 6,
     "GOOG": 2,
@@ -51,7 +51,8 @@
     "MH": 3,
     "DAL": 3,
     "AMZN": 2,
-    "VOO": 1
+    "VOO": 1,
+    "CMC": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
