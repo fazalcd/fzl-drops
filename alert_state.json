@@ -54,7 +54,8 @@
     "LHX": 1,
     "NOC": 1,
     "RTX": 1,
-    "VVX": 1
+    "VVX": 1,
+    "CMC": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
