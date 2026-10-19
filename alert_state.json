@@ -7,7 +7,7 @@
     "ANET": 4,
     "ARKK": 4,
     "ASTS": 8,
-    "AVAV": 2,
+    "AVAV": 3,
     "AVGO": 4,
     "BB": 7,
     "CEG": 1,
@@ -53,7 +53,8 @@
     "ZS": 5,
     "LHX": 1,
     "NOC": 1,
-    "RTX": 1
+    "RTX": 1,
+    "VVX": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
