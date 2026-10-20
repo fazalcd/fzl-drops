@@ -32,7 +32,9 @@
     "SYM": 1,
     "UBER": 1,
     "AMD": 1,
-    "ZS": 1
+    "ZS": 1,
+    "GOOG": 1,
+    "GOOGL": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
