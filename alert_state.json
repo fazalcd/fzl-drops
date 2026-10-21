@@ -6,14 +6,15 @@
     "CEG": 1,
     "DDOG": 1,
     "GEV": 1,
-    "GOOG": 1,
-    "GOOGL": 1,
+    "GOOG": 2,
+    "GOOGL": 2,
     "META": 1,
     "NEM": 1,
     "NET": 1,
     "PANW": 1,
     "RYCEY": 2,
-    "UBER": 1
+    "UBER": 1,
+    "SNDK": 2
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
