@@ -21,7 +21,8 @@
     "AMZN": 1,
     "RTX": 1,
     "AVAV": 1,
-    "MH": 1
+    "MH": 1,
+    "CMC": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
