@@ -14,7 +14,8 @@
     "PANW": 1,
     "RYCEY": 2,
     "UBER": 1,
-    "SNDK": 2
+    "SNDK": 2,
+    "ORCL": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
