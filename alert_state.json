@@ -17,7 +17,9 @@
     "SNDK": 2,
     "ORCL": 1,
     "LLY": 1,
-    "NKE": 1
+    "NKE": 1,
+    "AMZN": 1,
+    "RTX": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
