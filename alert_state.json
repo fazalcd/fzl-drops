@@ -46,7 +46,8 @@
     "VOO": 1,
     "CRWD": 1,
     "CLYM": 3,
-    "AVAV": 2
+    "AVAV": 2,
+    "NET": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
