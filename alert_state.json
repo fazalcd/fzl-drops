@@ -1,8 +1,8 @@
 {
   "date": "2026-10-22",
   "tiers": {
-    "GOOG": 2,
-    "GOOGL": 2,
+    "GOOG": 3,
+    "GOOGL": 3,
     "LLY": 1,
     "ORCL": 4,
     "UBER": 1,
@@ -32,7 +32,7 @@
     "RKLB": 6,
     "SMCI": 6,
     "SMH": 5,
-    "SNDK": 8,
+    "SNDK": 9,
     "SPMO": 3,
     "SPYG": 2,
     "SYM": 4,
@@ -46,7 +46,7 @@
     "VOO": 1,
     "CRWD": 1,
     "CLYM": 3,
-    "AVAV": 1
+    "AVAV": 2
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
