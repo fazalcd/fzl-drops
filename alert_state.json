@@ -1,28 +1,11 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "tiers": {
-    "AAPL": 1,
-    "ASTS": 1,
-    "CEG": 1,
-    "DDOG": 1,
-    "GEV": 1,
-    "GOOG": 2,
-    "GOOGL": 2,
-    "META": 1,
-    "NEM": 1,
-    "NET": 1,
-    "PANW": 1,
-    "RYCEY": 2,
-    "UBER": 1,
-    "SNDK": 2,
-    "ORCL": 2,
+    "GOOG": 1,
+    "GOOGL": 1,
     "LLY": 1,
-    "NKE": 1,
-    "AMZN": 1,
-    "RTX": 1,
-    "AVAV": 1,
-    "MH": 1,
-    "CMC": 1
+    "ORCL": 1,
+    "UBER": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
