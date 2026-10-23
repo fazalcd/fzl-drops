@@ -2,19 +2,20 @@ name: Stock Drop Alerts
 
 on:
   schedule:
-    # Backup schedule only - offset off the congested :00/:15/:30/:45 marks.
-    # This alone is NOT relied on for timely execution; the external
-    # cron-job.org trigger (calling workflow_dispatch below) is the
-    # primary schedule. This just acts as a safety net in case the
-    # external trigger ever fails to fire.
+    # Backup only; cron-job.org triggering workflow_dispatch is the primary schedule.
     - cron: "8,23,38,53 13-21 * * 1-5"
-  workflow_dispatch: {} # triggered externally by cron-job.org on a reliable schedule
+  workflow_dispatch: {}
+
+# Runs must not overlap: they read and write the same CSV/state files.
+concurrency:
+  group: stock-alerts
+  cancel-in-progress: false
 
 jobs:
   check-alerts:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # needed to commit the updated alert_state.json
+      contents: write # needed to commit the data files back
     steps:
       - uses: actions/checkout@v4
 
@@ -31,10 +32,11 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
         run: python check_alerts.py
 
-      - name: Persist alert state
+      - name: Persist data files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add alert_state.json
-          git diff --staged --quiet || git commit -m "Update alert state [skip ci]"
+          git add alert_state.json history.csv breaks.csv
+          git diff --staged --quiet || git commit -m "Update alert data [skip ci]"
+          git pull --rebase origin main
           git push
