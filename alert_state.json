@@ -18,7 +18,7 @@
     "INTC": 8,
     "IRDM": 1,
     "META": 6,
-    "MP": 2,
+    "MP": 3,
     "MRVL": 8,
     "MSFT": 2,
     "MU": 6,
@@ -41,7 +41,17 @@
     "SYM": 3,
     "TEM": 5,
     "VOO": 1,
-    "VST": 9
+    "VST": 9,
+    "AVAV": 3,
+    "DAL": 3,
+    "LHX": 1,
+    "LLY": 1,
+    "NOC": 1,
+    "PATH": 1,
+    "RTX": 2,
+    "UBER": 1,
+    "VVX": 2,
+    "ZS": 1
   },
   "thirty_day_low_alerted": [],
   "error_notified": true
