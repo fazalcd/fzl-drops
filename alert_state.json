@@ -5,8 +5,15 @@
     "META": 1,
     "MP": 1,
     "NEM": 1,
-    "RGTI": 1,
-    "TEM": 2
+    "RGTI": 2,
+    "TEM": 3,
+    "AAPL": 1,
+    "ADBE": 1,
+    "ASTS": 1,
+    "AVAV": 1,
+    "NET": 1,
+    "NOW": 1,
+    "SYM": 1
   },
   "error_notified": false
 }
