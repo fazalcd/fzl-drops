@@ -18,7 +18,8 @@
     "CEG": 1,
     "IOT": 1,
     "MRVL": 1,
-    "ORCL": 1
+    "ORCL": 1,
+    "MH": 1
   },
   "error_notified": false
 }
