@@ -20,7 +20,9 @@
     "MRVL": 1,
     "ORCL": 1,
     "MH": 2,
-    "UBER": 1
+    "UBER": 1,
+    "GOOG": 1,
+    "GOOGL": 1
   },
   "error_notified": false
 }
