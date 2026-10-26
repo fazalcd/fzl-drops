@@ -6,14 +6,19 @@
     "MP": 1,
     "NEM": 1,
     "RGTI": 2,
-    "TEM": 3,
+    "TEM": 4,
     "AAPL": 1,
     "ADBE": 1,
     "ASTS": 1,
     "AVAV": 1,
-    "NET": 1,
+    "NET": 2,
     "NOW": 1,
-    "SYM": 1
+    "SYM": 2,
+    "ARKK": 1,
+    "CEG": 1,
+    "IOT": 1,
+    "MRVL": 1,
+    "ORCL": 1
   },
   "error_notified": false
 }
