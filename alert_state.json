@@ -19,7 +19,8 @@
     "IOT": 1,
     "MRVL": 1,
     "ORCL": 1,
-    "MH": 2
+    "MH": 2,
+    "UBER": 1
   },
   "error_notified": false
 }
