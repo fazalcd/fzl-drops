@@ -1,9 +1,9 @@
 {
   "date": "2026-10-26",
   "tiers": {
-    "CLYM": 6,
+    "CLYM": 8,
     "META": 1,
-    "MP": 1,
+    "MP": 2,
     "NEM": 1,
     "RGTI": 2,
     "TEM": 4,
