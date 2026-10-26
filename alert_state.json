@@ -1,5 +1,12 @@
 {
   "date": "2026-10-26",
-  "tiers": {},
+  "tiers": {
+    "CLYM": 6,
+    "META": 1,
+    "MP": 1,
+    "NEM": 1,
+    "RGTI": 1,
+    "TEM": 2
+  },
   "error_notified": false
 }
