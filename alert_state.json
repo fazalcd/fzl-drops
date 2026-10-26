@@ -1,7 +1,7 @@
 {
   "date": "2026-10-26",
   "tiers": {
-    "CLYM": 13,
+    "CLYM": 14,
     "META": 1,
     "MP": 2,
     "NEM": 1,
@@ -13,7 +13,7 @@
     "AVAV": 1,
     "NET": 2,
     "NOW": 2,
-    "SYM": 2,
+    "SYM": 3,
     "ARKK": 1,
     "CEG": 1,
     "IOT": 1,
