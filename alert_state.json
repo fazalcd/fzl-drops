@@ -7,7 +7,8 @@
     "NOW": 2,
     "PATH": 2,
     "IOT": 3,
-    "META": 1
+    "META": 1,
+    "ZS": 1
   },
   "error_notified": false
 }
