@@ -3,10 +3,10 @@
   "tiers": {
     "ADBE": 2,
     "DDOG": 1,
-    "MH": 2,
+    "MH": 3,
     "NOW": 2,
-    "PATH": 1,
-    "IOT": 1,
+    "PATH": 2,
+    "IOT": 3,
     "META": 1
   },
   "error_notified": false
