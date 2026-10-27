@@ -1,5 +1,11 @@
 {
   "date": "2026-10-27",
-  "tiers": {},
+  "tiers": {
+    "ADBE": 1,
+    "DDOG": 1,
+    "MH": 1,
+    "NOW": 1,
+    "PATH": 1
+  },
   "error_notified": false
 }
