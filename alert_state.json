@@ -12,7 +12,8 @@
     "LHX": 1,
     "NOC": 2,
     "NKE": 1,
-    "RTX": 1
+    "RTX": 1,
+    "NET": 1
   },
   "error_notified": false
 }
