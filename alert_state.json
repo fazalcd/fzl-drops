@@ -8,7 +8,7 @@
     "GEV": 6,
     "MP": 2,
     "NEM": 1,
-    "RGTI": 1,
+    "RGTI": 2,
     "SYM": 1,
     "VST": 2,
     "RKLB": 2,
@@ -18,8 +18,9 @@
     "UBER": 1,
     "BB": 2,
     "META": 1,
-    "MH": 1,
-    "NET": 1
+    "MH": 2,
+    "NET": 2,
+    "IOT": 1
   },
   "error_notified": false
 }
