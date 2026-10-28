@@ -24,7 +24,8 @@
     "QCOM": 1,
     "CRWD": 1,
     "DDOG": 1,
-    "NTAP": 1
+    "NTAP": 1,
+    "ZS": 1
   },
   "error_notified": true
 }
