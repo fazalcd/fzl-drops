@@ -1,19 +1,5 @@
 {
-  "date": "2026-10-27",
-  "tiers": {
-    "ADBE": 4,
-    "DDOG": 1,
-    "MH": 4,
-    "NOW": 2,
-    "PATH": 2,
-    "IOT": 3,
-    "META": 1,
-    "ZS": 1,
-    "LHX": 1,
-    "NOC": 2,
-    "NKE": 1,
-    "RTX": 1,
-    "NET": 1
-  },
-  "error_notified": true
+  "date": "2026-10-28",
+  "tiers": {},
+  "error_notified": false
 }
