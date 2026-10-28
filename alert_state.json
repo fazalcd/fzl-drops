@@ -13,14 +13,15 @@
     "VST": 2,
     "RKLB": 2,
     "AVAV": 2,
-    "NOW": 1,
+    "NOW": 2,
     "PANW": 1,
     "UBER": 1,
-    "BB": 2,
+    "BB": 3,
     "META": 1,
     "MH": 2,
     "NET": 2,
-    "IOT": 1
+    "IOT": 2,
+    "QCOM": 1
   },
   "error_notified": false
 }
