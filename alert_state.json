@@ -21,7 +21,8 @@
     "MH": 2,
     "NET": 2,
     "IOT": 2,
-    "QCOM": 1
+    "QCOM": 1,
+    "CRWD": 1
   },
-  "error_notified": false
+  "error_notified": true
 }
