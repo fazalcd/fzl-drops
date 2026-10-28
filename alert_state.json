@@ -12,13 +12,14 @@
     "SYM": 1,
     "VST": 2,
     "RKLB": 2,
-    "AVAV": 1,
+    "AVAV": 2,
     "NOW": 1,
     "PANW": 1,
     "UBER": 1,
-    "BB": 1,
+    "BB": 2,
     "META": 1,
-    "MH": 1
+    "MH": 1,
+    "NET": 1
   },
   "error_notified": false
 }
