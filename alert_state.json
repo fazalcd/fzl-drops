@@ -1,5 +1,16 @@
 {
   "date": "2026-10-28",
-  "tiers": {},
+  "tiers": {
+    "ASTS": 3,
+    "CEG": 1,
+    "CLYM": 1,
+    "CMC": 1,
+    "GEV": 6,
+    "MP": 1,
+    "NEM": 1,
+    "RGTI": 1,
+    "SYM": 1,
+    "VST": 1
+  },
   "error_notified": false
 }
