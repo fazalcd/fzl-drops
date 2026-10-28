@@ -11,7 +11,10 @@
     "RGTI": 1,
     "SYM": 1,
     "VST": 2,
-    "RKLB": 1
+    "RKLB": 2,
+    "AVAV": 1,
+    "NOW": 1,
+    "PANW": 1
   },
   "error_notified": false
 }
