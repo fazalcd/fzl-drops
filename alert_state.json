@@ -13,7 +13,7 @@
     "VST": 2,
     "RKLB": 2,
     "AVAV": 2,
-    "NOW": 2,
+    "NOW": 3,
     "PANW": 1,
     "UBER": 1,
     "BB": 3,
@@ -25,7 +25,8 @@
     "CRWD": 1,
     "DDOG": 1,
     "NTAP": 1,
-    "ZS": 1
+    "ZS": 1,
+    "DAL": 1
   },
   "error_notified": true
 }
