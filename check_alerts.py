@@ -161,11 +161,21 @@ def get_quote(symbol):
     return r.json()
 
 
+PRIORITIES = {"min": 1, "low": 2, "default": 3, "high": 4, "urgent": 5, "max": 5}
+
+
 def send_push(title, message, priority="urgent", tags="chart_with_downwards_trend"):
+    # JSON publish (not headers): HTTP headers are Latin-1 only, so emoji in
+    # a title sent as a header raises an encoding error.
     r = requests.post(
-        f"https://ntfy.sh/{NTFY_TOPIC}",
-        data=message.encode("utf-8"),
-        headers={"Title": title, "Priority": priority, "Tags": tags},
+        "https://ntfy.sh/",
+        json={
+            "topic": NTFY_TOPIC,
+            "title": title,
+            "message": message,
+            "priority": PRIORITIES.get(priority, 3),
+            "tags": [t.strip() for t in tags.split(",") if t.strip()],
+        },
         timeout=10,
     )
     r.raise_for_status()
