@@ -6,7 +6,7 @@
     "ASTS": 11,
     "BB": 4,
     "CLYM": 4,
-    "DDOG": 7,
+    "DDOG": 8,
     "INTC": 9,
     "MH": 5,
     "MRVL": 13,
@@ -22,7 +22,7 @@
     "ANET": 3,
     "VST": 2,
     "IRDM": 2,
-    "NOK": 2,
+    "NOK": 3,
     "RGTI": 5,
     "CRWD": 3,
     "AVAV": 2,
@@ -37,7 +37,9 @@
     "NVDA": 1,
     "QQQ": 1,
     "SYM": 1,
-    "META": 1
+    "META": 1,
+    "AVGO": 1,
+    "SPYG": 1
   },
   "error_notified": false
 }
