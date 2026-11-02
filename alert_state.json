@@ -2,23 +2,25 @@
   "date": "2026-11-02",
   "tiers": {
     "AAPL": 1,
-    "AMD": 2,
-    "ASTS": 4,
+    "AMD": 3,
+    "ASTS": 5,
     "BB": 1,
     "CLYM": 3,
     "DDOG": 4,
     "INTC": 4,
     "MH": 1,
-    "MRVL": 6,
+    "MRVL": 7,
     "MU": 2,
     "NET": 1,
     "NTAP": 3,
     "ORCL": 5,
     "RKLB": 1,
-    "SMCI": 1,
+    "SMCI": 2,
     "SNDK": 2,
     "SPMO": 1,
-    "ZS": 2
+    "ZS": 2,
+    "ANET": 1,
+    "VST": 1
   },
   "error_notified": false
 }
