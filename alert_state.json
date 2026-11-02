@@ -3,7 +3,7 @@
   "tiers": {
     "AAPL": 2,
     "AMD": 4,
-    "ASTS": 6,
+    "ASTS": 7,
     "BB": 1,
     "CLYM": 4,
     "DDOG": 5,
@@ -11,7 +11,7 @@
     "MH": 5,
     "MRVL": 10,
     "MU": 4,
-    "NET": 2,
+    "NET": 3,
     "NTAP": 4,
     "ORCL": 6,
     "RKLB": 3,
@@ -23,7 +23,8 @@
     "VST": 1,
     "IRDM": 1,
     "NOK": 1,
-    "RGTI": 1
+    "RGTI": 2,
+    "CRWD": 1
   },
   "error_notified": false
 }
