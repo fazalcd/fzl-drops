@@ -3,7 +3,7 @@
   "tiers": {
     "AAPL": 2,
     "AMD": 6,
-    "ASTS": 9,
+    "ASTS": 10,
     "BB": 4,
     "CLYM": 4,
     "DDOG": 6,
@@ -32,7 +32,8 @@
     "SMH": 2,
     "ARKK": 1,
     "CEG": 1,
-    "MSFT": 1
+    "MSFT": 1,
+    "QCOM": 1
   },
   "error_notified": false
 }
