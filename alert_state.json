@@ -10,7 +10,9 @@
     "VVX": 5,
     "MH": 3,
     "NOC": 1,
-    "NEM": 1
+    "NEM": 1,
+    "MP": 1,
+    "MRVL": 1
   },
-  "error_notified": false
+  "error_notified": true
 }
