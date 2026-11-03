@@ -1,5 +1,13 @@
 {
   "date": "2026-11-03",
-  "tiers": {},
+  "tiers": {
+    "AAPL": 3,
+    "ADBE": 3,
+    "IOT": 3,
+    "NKE": 1,
+    "NOW": 2,
+    "PATH": 2,
+    "VVX": 5
+  },
   "error_notified": false
 }
