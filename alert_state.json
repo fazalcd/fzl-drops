@@ -4,10 +4,12 @@
     "AAPL": 3,
     "ADBE": 3,
     "IOT": 3,
-    "NKE": 1,
+    "NKE": 2,
     "NOW": 2,
     "PATH": 2,
-    "VVX": 5
+    "VVX": 5,
+    "MH": 1,
+    "NOC": 1
   },
   "error_notified": false
 }
