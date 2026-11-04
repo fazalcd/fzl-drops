@@ -2,10 +2,10 @@
   "date": "2026-11-04",
   "tiers": {
     "AVAV": 4,
-    "CEG": 7,
-    "DDOG": 10,
+    "CEG": 8,
+    "DDOG": 11,
     "GEV": 10,
-    "INTC": 2,
+    "INTC": 3,
     "LHX": 5,
     "MRVL": 5,
     "MU": 3,
@@ -16,12 +16,12 @@
     "RTX": 3,
     "SMH": 1,
     "SNDK": 5,
-    "VST": 13,
+    "VST": 14,
     "RKLB": 2,
     "CMC": 1,
     "MP": 1,
     "TEM": 2,
-    "VVX": 1
+    "VVX": 3
   },
   "error_notified": false
 }
