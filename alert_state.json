@@ -1,7 +1,7 @@
 {
   "date": "2026-11-04",
   "tiers": {
-    "AVAV": 10,
+    "AVAV": 11,
     "CEG": 9,
     "DDOG": 14,
     "GEV": 11,
@@ -34,7 +34,8 @@
     "ZS": 1,
     "RGTI": 1,
     "SPMO": 1,
-    "CRWD": 1
+    "CRWD": 1,
+    "ORCL": 1
   },
   "error_notified": false
 }
