@@ -1,22 +1,23 @@
 {
   "date": "2026-11-04",
   "tiers": {
-    "AVAV": 1,
+    "AVAV": 2,
     "CEG": 5,
     "DDOG": 10,
     "GEV": 8,
     "INTC": 2,
-    "LHX": 3,
+    "LHX": 4,
     "MRVL": 5,
     "MU": 3,
-    "NET": 1,
-    "NOC": 2,
+    "NET": 2,
+    "NOC": 3,
     "NOK": 1,
     "NVDA": 1,
     "RTX": 2,
     "SMH": 1,
     "SNDK": 5,
-    "VST": 9
+    "VST": 9,
+    "RKLB": 1
   },
   "error_notified": false
 }
