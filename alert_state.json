@@ -1,12 +1,12 @@
 {
   "date": "2026-11-04",
   "tiers": {
-    "AVAV": 9,
+    "AVAV": 10,
     "CEG": 9,
-    "DDOG": 13,
+    "DDOG": 14,
     "GEV": 11,
     "INTC": 5,
-    "LHX": 6,
+    "LHX": 7,
     "MRVL": 9,
     "MU": 6,
     "NET": 4,
@@ -21,19 +21,20 @@
     "CMC": 1,
     "MP": 5,
     "TEM": 5,
-    "VVX": 5,
+    "VVX": 6,
     "ARKK": 1,
     "ASTS": 5,
     "AVGO": 2,
     "BB": 1,
-    "CLYM": 3,
+    "CLYM": 4,
     "IRDM": 1,
     "NTAP": 2,
     "SMCI": 4,
     "SYM": 3,
     "ZS": 1,
     "RGTI": 1,
-    "SPMO": 1
+    "SPMO": 1,
+    "CRWD": 1
   },
   "error_notified": false
 }
