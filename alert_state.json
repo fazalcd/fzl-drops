@@ -16,7 +16,7 @@
     "INTC": 9,
     "IOT": 3,
     "IRDM": 6,
-    "MH": 6,
+    "MH": 10,
     "MP": 10,
     "MRVL": 14,
     "MU": 16,
@@ -52,7 +52,8 @@
     "GOOG": 3,
     "GOOGL": 3,
     "NKE": 2,
-    "NEM": 1
+    "NEM": 1,
+    "RTX": 1
   },
   "error_notified": false
 }
