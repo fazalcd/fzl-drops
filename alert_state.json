@@ -41,7 +41,7 @@
     "TEM": 13,
     "VST": 7,
     "ZS": 7,
-    "CMC": 5,
+    "CMC": 6,
     "DAL": 5,
     "META": 6,
     "MSFT": 3,
@@ -56,7 +56,8 @@
     "RTX": 1,
     "AAPL": 1,
     "LLY": 1,
-    "VVX": 1
+    "VVX": 2,
+    "LHX": 1
   },
   "error_notified": false
 }
