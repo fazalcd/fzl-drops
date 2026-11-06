@@ -13,7 +13,9 @@
     "VVX": 1,
     "IOT": 2,
     "PATH": 1,
-    "ORCL": 4
+    "ORCL": 4,
+    "GEV": 1,
+    "ZS": 1
   },
   "error_notified": false
 }
