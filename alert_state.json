@@ -2,7 +2,7 @@
   "date": "2026-11-06",
   "tiers": {
     "AAPL": 1,
-    "ADBE": 2,
+    "ADBE": 3,
     "ASTS": 6,
     "GLD": 1,
     "LHX": 1,
@@ -10,7 +10,8 @@
     "NKE": 2,
     "NOC": 2,
     "RTX": 1,
-    "VVX": 1
+    "VVX": 1,
+    "IOT": 1
   },
   "error_notified": false
 }
