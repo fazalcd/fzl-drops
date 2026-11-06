@@ -12,7 +12,8 @@
     "RTX": 1,
     "VVX": 1,
     "IOT": 2,
-    "PATH": 1
+    "PATH": 1,
+    "ORCL": 4
   },
   "error_notified": false
 }
