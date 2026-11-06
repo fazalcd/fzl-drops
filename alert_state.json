@@ -11,7 +11,8 @@
     "NOC": 2,
     "RTX": 1,
     "VVX": 1,
-    "IOT": 1
+    "IOT": 2,
+    "PATH": 1
   },
   "error_notified": false
 }
