@@ -1,5 +1,9 @@
 {
   "date": "2026-11-09",
-  "tiers": {},
+  "tiers": {
+    "DDOG": 1,
+    "NVDA": 6,
+    "SMCI": 3
+  },
   "error_notified": false
 }
