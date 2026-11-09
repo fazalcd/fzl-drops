@@ -3,7 +3,8 @@
   "tiers": {
     "DDOG": 1,
     "NVDA": 6,
-    "SMCI": 3
+    "SMCI": 3,
+    "ADBE": 1
   },
   "error_notified": false
 }
