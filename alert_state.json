@@ -2,7 +2,7 @@
   "date": "2026-11-10",
   "tiers": {
     "ARKK": 3,
-    "ASTS": 10,
+    "ASTS": 11,
     "BB": 4,
     "CEG": 4,
     "CRWD": 3,
@@ -32,7 +32,7 @@
     "VST": 3,
     "ZS": 4,
     "AVAV": 3,
-    "ORCL": 2,
+    "ORCL": 3,
     "MH": 3,
     "AAPL": 1,
     "ADBE": 1,
@@ -40,7 +40,7 @@
     "QQQ": 1,
     "SPYG": 1,
     "SPMO": 1,
-    "ANET": 1,
+    "ANET": 2,
     "MSFT": 2
   },
   "error_notified": false
