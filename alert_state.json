@@ -1,8 +1,8 @@
 {
   "date": "2026-11-10",
   "tiers": {
-    "ARKK": 2,
-    "ASTS": 7,
+    "ARKK": 3,
+    "ASTS": 8,
     "BB": 3,
     "CEG": 3,
     "CRWD": 3,
@@ -25,7 +25,7 @@
     "RKLB": 2,
     "SMCI": 2,
     "SMH": 1,
-    "SNDK": 3,
+    "SNDK": 4,
     "SYM": 3,
     "TEM": 5,
     "UBER": 2,
@@ -37,7 +37,8 @@
     "AAPL": 1,
     "ADBE": 1,
     "QCOM": 1,
-    "QQQ": 1
+    "QQQ": 1,
+    "SPYG": 1
   },
   "error_notified": false
 }
