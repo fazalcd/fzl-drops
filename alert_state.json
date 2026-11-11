@@ -4,7 +4,7 @@
     "CLYM": 1,
     "LHX": 1,
     "NEM": 1,
-    "RGTI": 6,
+    "RGTI": 8,
     "MSFT": 2,
     "NKE": 2,
     "AMZN": 1,
@@ -13,7 +13,8 @@
     "LLY": 1,
     "GLD": 1,
     "TEM": 1,
-    "VVX": 1
+    "VVX": 1,
+    "META": 1
   },
   "error_notified": false
 }
