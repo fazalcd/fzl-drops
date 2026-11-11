@@ -5,8 +5,10 @@
     "LHX": 1,
     "NEM": 1,
     "RGTI": 3,
-    "MSFT": 1,
-    "NKE": 1
+    "MSFT": 2,
+    "NKE": 1,
+    "AMZN": 1,
+    "UBER": 1
   },
   "error_notified": false
 }
