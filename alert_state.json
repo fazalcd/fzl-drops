@@ -3,7 +3,7 @@
   "tiers": {
     "ADBE": 1,
     "ARKK": 2,
-    "ASTS": 4,
+    "ASTS": 5,
     "BB": 3,
     "CLYM": 8,
     "CRWD": 2,
@@ -21,14 +21,14 @@
     "ORCL": 3,
     "PANW": 5,
     "PATH": 1,
-    "RGTI": 3,
+    "RGTI": 4,
     "SMCI": 9,
     "SMH": 2,
     "SNDK": 6,
     "SYM": 6,
     "TEM": 7,
     "UBER": 1,
-    "ZS": 2,
+    "ZS": 3,
     "AVAV": 3,
     "DAL": 3,
     "LHX": 1,
@@ -37,7 +37,8 @@
     "IRDM": 1,
     "META": 1,
     "MP": 1,
-    "RKLB": 2
+    "RKLB": 2,
+    "NET": 1
   },
   "error_notified": false
 }
