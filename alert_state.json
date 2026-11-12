@@ -5,7 +5,7 @@
     "ARKK": 2,
     "ASTS": 5,
     "BB": 3,
-    "CLYM": 9,
+    "CLYM": 10,
     "CRWD": 2,
     "DDOG": 3,
     "GLD": 3,
@@ -30,7 +30,7 @@
     "UBER": 1,
     "ZS": 3,
     "AVAV": 3,
-    "DAL": 3,
+    "DAL": 4,
     "LHX": 1,
     "MH": 1,
     "VVX": 2,
@@ -39,7 +39,8 @@
     "MP": 1,
     "RKLB": 2,
     "NET": 1,
-    "NKE": 1
+    "NKE": 1,
+    "RTX": 1
   },
   "error_notified": true
 }
