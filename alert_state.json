@@ -48,7 +48,8 @@
     "MSFT": 1,
     "CMC": 1,
     "NEM": 1,
-    "SYM": 1
+    "SYM": 1,
+    "CLYM": 1
   },
   "error_notified": false
 }
