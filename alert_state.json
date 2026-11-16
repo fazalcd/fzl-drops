@@ -5,7 +5,7 @@
     "AMZN": 3,
     "ANET": 6,
     "ARKK": 4,
-    "ASTS": 10,
+    "ASTS": 11,
     "AVAV": 6,
     "AVGO": 5,
     "BB": 2,
@@ -13,7 +13,7 @@
     "DDOG": 5,
     "GOOG": 3,
     "GOOGL": 3,
-    "INTC": 6,
+    "INTC": 7,
     "IOT": 1,
     "LHX": 3,
     "META": 2,
@@ -49,8 +49,9 @@
     "CMC": 2,
     "NEM": 1,
     "SYM": 1,
-    "CLYM": 2,
-    "RTX": 1
+    "CLYM": 4,
+    "RTX": 1,
+    "VVX": 1
   },
   "error_notified": false
 }
