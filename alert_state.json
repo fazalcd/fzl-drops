@@ -5,7 +5,7 @@
     "AMZN": 3,
     "ANET": 6,
     "ARKK": 4,
-    "ASTS": 8,
+    "ASTS": 9,
     "AVAV": 5,
     "AVGO": 5,
     "BB": 2,
@@ -49,7 +49,7 @@
     "CMC": 2,
     "NEM": 1,
     "SYM": 1,
-    "CLYM": 1,
+    "CLYM": 2,
     "RTX": 1
   },
   "error_notified": false
