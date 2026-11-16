@@ -15,7 +15,7 @@
     "GOOGL": 3,
     "INTC": 7,
     "IOT": 1,
-    "LHX": 3,
+    "LHX": 4,
     "META": 2,
     "MP": 5,
     "MRVL": 7,
@@ -52,7 +52,8 @@
     "CLYM": 4,
     "RTX": 1,
     "VVX": 1,
-    "AAPL": 1
+    "AAPL": 1,
+    "NOC": 1
   },
   "error_notified": false
 }
