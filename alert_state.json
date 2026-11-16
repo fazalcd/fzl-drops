@@ -21,7 +21,7 @@
     "MRVL": 6,
     "MU": 6,
     "NET": 2,
-    "NOK": 1,
+    "NOK": 2,
     "NOW": 3,
     "NTAP": 1,
     "NVDA": 1,
@@ -37,8 +37,9 @@
     "SPMO": 1,
     "SPYG": 1,
     "TEM": 5,
-    "VST": 1,
-    "ZS": 1
+    "VST": 2,
+    "ZS": 1,
+    "GEV": 1
   },
   "error_notified": false
 }
