@@ -6,7 +6,7 @@
     "ANET": 6,
     "ARKK": 4,
     "ASTS": 7,
-    "AVAV": 3,
+    "AVAV": 4,
     "AVGO": 5,
     "BB": 2,
     "CRWD": 3,
@@ -49,7 +49,8 @@
     "CMC": 1,
     "NEM": 1,
     "SYM": 1,
-    "CLYM": 1
+    "CLYM": 1,
+    "RTX": 1
   },
   "error_notified": false
 }
