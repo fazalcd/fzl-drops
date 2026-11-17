@@ -9,7 +9,7 @@
     "MSFT": 3,
     "MU": 7,
     "NOW": 7,
-    "PANW": 3,
+    "PANW": 4,
     "PATH": 5,
     "RGTI": 8,
     "ZS": 5,
@@ -29,8 +29,8 @@
     "SNDK": 7,
     "MP": 3,
     "NTAP": 3,
-    "SYM": 4,
-    "TEM": 3,
+    "SYM": 5,
+    "TEM": 4,
     "AMD": 4,
     "ASTS": 4,
     "IRDM": 1,
@@ -50,7 +50,8 @@
     "SPMO": 2,
     "SPY": 1,
     "VOO": 1,
-    "LLY": 1
+    "LLY": 1,
+    "NKE": 1
   },
   "error_notified": false
 }
