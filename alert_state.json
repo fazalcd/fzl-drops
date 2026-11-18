@@ -1,5 +1,20 @@
 {
   "date": "2026-11-18",
-  "tiers": {},
+  "tiers": {
+    "ASTS": 3,
+    "AVAV": 1,
+    "GLD": 2,
+    "INTC": 2,
+    "MRVL": 2,
+    "MU": 1,
+    "NEM": 5,
+    "NOC": 1,
+    "NOK": 1,
+    "PATH": 3,
+    "QCOM": 1,
+    "RKLB": 1,
+    "SNDK": 2,
+    "VVX": 1
+  },
   "error_notified": true
 }
