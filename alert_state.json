@@ -1,8 +1,8 @@
 {
   "date": "2026-11-18",
   "tiers": {
-    "ASTS": 3,
-    "AVAV": 1,
+    "ASTS": 4,
+    "AVAV": 2,
     "GLD": 2,
     "INTC": 2,
     "MRVL": 2,
@@ -17,11 +17,13 @@
     "VVX": 1,
     "ADBE": 2,
     "CEG": 1,
-    "CLYM": 1,
+    "CLYM": 2,
     "NOW": 2,
     "LHX": 1,
     "LLY": 1,
-    "RTX": 1
+    "RTX": 1,
+    "NVDA": 1,
+    "TEM": 2
   },
   "error_notified": true
 }
