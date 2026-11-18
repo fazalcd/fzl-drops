@@ -17,7 +17,7 @@
     "VVX": 1,
     "ADBE": 4,
     "CEG": 1,
-    "CLYM": 3,
+    "CLYM": 4,
     "NOW": 3,
     "LHX": 2,
     "LLY": 2,
@@ -28,7 +28,8 @@
     "SPMO": 1,
     "SMH": 1,
     "ORCL": 1,
-    "RGTI": 2
+    "RGTI": 2,
+    "VST": 1
   },
   "error_notified": true
 }
