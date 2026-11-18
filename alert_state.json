@@ -11,10 +11,14 @@
     "NOC": 1,
     "NOK": 1,
     "PATH": 3,
-    "QCOM": 1,
+    "QCOM": 2,
     "RKLB": 1,
-    "SNDK": 2,
-    "VVX": 1
+    "SNDK": 4,
+    "VVX": 1,
+    "ADBE": 1,
+    "CEG": 1,
+    "CLYM": 1,
+    "NOW": 1
   },
   "error_notified": true
 }
