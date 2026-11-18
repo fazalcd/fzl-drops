@@ -1,29 +1,30 @@
 {
   "date": "2026-11-18",
   "tiers": {
-    "ASTS": 4,
+    "ASTS": 5,
     "AVAV": 2,
     "GLD": 2,
     "INTC": 2,
     "MRVL": 2,
     "MU": 1,
     "NEM": 6,
-    "NOC": 2,
+    "NOC": 3,
     "NOK": 1,
     "PATH": 3,
     "QCOM": 2,
-    "RKLB": 1,
+    "RKLB": 2,
     "SNDK": 4,
     "VVX": 1,
     "ADBE": 2,
     "CEG": 1,
-    "CLYM": 2,
+    "CLYM": 3,
     "NOW": 2,
     "LHX": 1,
     "LLY": 1,
     "RTX": 1,
     "NVDA": 1,
-    "TEM": 2
+    "TEM": 2,
+    "META": 1
   },
   "error_notified": true
 }
