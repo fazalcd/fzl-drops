@@ -7,7 +7,7 @@
     "INTC": 2,
     "MRVL": 2,
     "MU": 1,
-    "NEM": 5,
+    "NEM": 6,
     "NOC": 2,
     "NOK": 1,
     "PATH": 3,
@@ -15,10 +15,13 @@
     "RKLB": 1,
     "SNDK": 4,
     "VVX": 1,
-    "ADBE": 1,
+    "ADBE": 2,
     "CEG": 1,
     "CLYM": 1,
-    "NOW": 1
+    "NOW": 2,
+    "LHX": 1,
+    "LLY": 1,
+    "RTX": 1
   },
   "error_notified": true
 }
