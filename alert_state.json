@@ -1,18 +1,18 @@
 {
   "date": "2026-11-18",
   "tiers": {
-    "ASTS": 6,
+    "ASTS": 7,
     "AVAV": 2,
     "GLD": 2,
     "INTC": 2,
     "MRVL": 3,
-    "MU": 2,
+    "MU": 3,
     "NEM": 7,
     "NOC": 3,
     "NOK": 1,
-    "PATH": 3,
+    "PATH": 4,
     "QCOM": 3,
-    "RKLB": 2,
+    "RKLB": 3,
     "SNDK": 4,
     "VVX": 1,
     "ADBE": 4,
@@ -20,13 +20,15 @@
     "CLYM": 3,
     "NOW": 3,
     "LHX": 2,
-    "LLY": 1,
+    "LLY": 2,
     "RTX": 1,
     "NVDA": 2,
     "TEM": 2,
     "META": 1,
     "SPMO": 1,
-    "SMH": 1
+    "SMH": 1,
+    "ORCL": 1,
+    "RGTI": 2
   },
   "error_notified": true
 }
