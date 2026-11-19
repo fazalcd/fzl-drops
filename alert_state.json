@@ -22,14 +22,14 @@
     "ARKK": 3,
     "AVGO": 2,
     "IRDM": 1,
-    "META": 2,
+    "META": 3,
     "MH": 1,
     "MRVL": 3,
     "NOW": 2,
     "NVDA": 2,
     "ORCL": 2,
     "PATH": 3,
-    "QQQ": 1,
+    "QQQ": 2,
     "SMCI": 1,
     "SMH": 2,
     "SNDK": 1,
@@ -47,7 +47,8 @@
     "GOOGL": 2,
     "RTX": 2,
     "GOOG": 2,
-    "RGTI": 1
+    "RGTI": 2,
+    "NOK": 1
   },
   "error_notified": false
 }
