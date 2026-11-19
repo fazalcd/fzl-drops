@@ -1,5 +1,8 @@
 {
   "date": "2026-11-19",
-  "tiers": {},
+  "tiers": {
+    "DAL": 1,
+    "NKE": 2
+  },
   "error_notified": false
 }
