@@ -3,10 +3,19 @@
   "tiers": {
     "DAL": 1,
     "NKE": 3,
-    "LLY": 1,
-    "UBER": 2,
+    "LLY": 2,
+    "UBER": 3,
     "ADBE": 1,
-    "CEG": 1
+    "CEG": 2,
+    "AAPL": 1,
+    "AMD": 5,
+    "AVAV": 1,
+    "CLYM": 1,
+    "CMC": 1,
+    "GLD": 1,
+    "NEM": 1,
+    "RKLB": 2,
+    "TEM": 2
   },
   "error_notified": false
 }
