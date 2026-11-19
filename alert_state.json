@@ -15,7 +15,8 @@
     "GLD": 1,
     "NEM": 2,
     "RKLB": 2,
-    "TEM": 2
+    "TEM": 2,
+    "IOT": 1
   },
   "error_notified": false
 }
