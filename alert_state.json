@@ -2,7 +2,7 @@
   "date": "2026-11-19",
   "tiers": {
     "DAL": 1,
-    "NKE": 5,
+    "NKE": 6,
     "LLY": 2,
     "UBER": 4,
     "ADBE": 2,
@@ -24,7 +24,7 @@
     "IRDM": 1,
     "META": 3,
     "MH": 1,
-    "MRVL": 3,
+    "MRVL": 4,
     "NOW": 2,
     "NVDA": 2,
     "ORCL": 2,
@@ -48,7 +48,8 @@
     "RTX": 2,
     "GOOG": 2,
     "RGTI": 2,
-    "NOK": 1
+    "NOK": 1,
+    "NTAP": 1
   },
   "error_notified": false
 }
