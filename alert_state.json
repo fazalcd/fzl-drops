@@ -9,7 +9,7 @@
     "CEG": 2,
     "AAPL": 1,
     "AMD": 10,
-    "AVAV": 2,
+    "AVAV": 3,
     "CLYM": 2,
     "CMC": 2,
     "GLD": 1,
@@ -22,10 +22,10 @@
     "ARKK": 2,
     "AVGO": 1,
     "IRDM": 1,
-    "META": 1,
+    "META": 2,
     "MH": 1,
     "MRVL": 3,
-    "NOW": 1,
+    "NOW": 2,
     "NVDA": 1,
     "ORCL": 1,
     "PATH": 1,
@@ -42,7 +42,8 @@
     "BB": 1,
     "GEV": 1,
     "MU": 1,
-    "SYM": 1
+    "SYM": 1,
+    "MSFT": 1
   },
   "error_notified": false
 }
