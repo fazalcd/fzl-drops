@@ -4,7 +4,9 @@
     "DAL": 1,
     "NKE": 3,
     "LLY": 1,
-    "UBER": 1
+    "UBER": 2,
+    "ADBE": 1,
+    "CEG": 1
   },
   "error_notified": false
 }
