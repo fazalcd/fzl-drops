@@ -15,16 +15,16 @@
     "GLD": 1,
     "NEM": 3,
     "RKLB": 3,
-    "TEM": 3,
-    "IOT": 1,
-    "AMZN": 1,
+    "TEM": 5,
+    "IOT": 2,
+    "AMZN": 2,
     "ANET": 1,
     "ARKK": 2,
     "AVGO": 1,
     "IRDM": 1,
     "META": 1,
     "MH": 1,
-    "MRVL": 2,
+    "MRVL": 3,
     "NOW": 1,
     "NVDA": 1,
     "ORCL": 1,
@@ -38,7 +38,11 @@
     "SPYG": 1,
     "VOO": 1,
     "VST": 1,
-    "VVX": 1
+    "VVX": 1,
+    "BB": 1,
+    "GEV": 1,
+    "MU": 1,
+    "SYM": 1
   },
   "error_notified": false
 }
