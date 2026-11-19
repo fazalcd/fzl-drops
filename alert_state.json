@@ -2,7 +2,9 @@
   "date": "2026-11-19",
   "tiers": {
     "DAL": 1,
-    "NKE": 2
+    "NKE": 2,
+    "LLY": 1,
+    "UBER": 1
   },
   "error_notified": false
 }
