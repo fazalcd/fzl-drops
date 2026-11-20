@@ -1,18 +1,18 @@
 {
   "date": "2026-11-20",
   "tiers": {
-    "AMD": 8,
+    "AMD": 9,
     "ANET": 9,
     "ARKK": 3,
-    "ASTS": 4,
-    "AVGO": 8,
+    "ASTS": 5,
+    "AVGO": 9,
     "BB": 3,
     "CEG": 3,
     "CLYM": 1,
     "CMC": 3,
     "CRWD": 4,
     "DDOG": 2,
-    "GEV": 5,
+    "GEV": 6,
     "GLD": 3,
     "INTC": 3,
     "META": 3,
@@ -44,7 +44,8 @@
     "VVX": 1,
     "SPY": 1,
     "AMZN": 1,
-    "VOO": 1
+    "VOO": 1,
+    "MSFT": 1
   },
   "error_notified": false
 }
