@@ -21,7 +21,7 @@
     "NEM": 5,
     "NET": 10,
     "NOK": 8,
-    "NTAP": 6,
+    "NTAP": 7,
     "NVDA": 12,
     "ORCL": 8,
     "QQQ": 5,
@@ -57,7 +57,8 @@
     "RTX": 1,
     "GOOGL": 2,
     "ADBE": 1,
-    "NOC": 1
+    "NOC": 1,
+    "NOW": 1
   },
   "error_notified": false
 }
