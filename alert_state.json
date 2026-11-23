@@ -1,5 +1,8 @@
 {
   "date": "2026-11-23",
-  "tiers": {},
+  "tiers": {
+    "CRWD": 7,
+    "VVX": 3
+  },
   "error_notified": false
 }
