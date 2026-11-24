@@ -8,7 +8,7 @@
     "AVGO": 4,
     "CEG": 3,
     "CMC": 5,
-    "DDOG": 1,
+    "DDOG": 2,
     "GEV": 6,
     "GOOG": 1,
     "GOOGL": 1,
@@ -44,7 +44,8 @@
     "DAL": 1,
     "META": 2,
     "MP": 1,
-    "CLYM": 1
+    "CLYM": 1,
+    "VVX": 1
   },
   "error_notified": false
 }
