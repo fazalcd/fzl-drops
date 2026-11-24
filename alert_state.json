@@ -4,7 +4,7 @@
     "AMD": 9,
     "AMZN": 1,
     "ANET": 6,
-    "ASTS": 5,
+    "ASTS": 6,
     "AVGO": 4,
     "CEG": 2,
     "CMC": 1,
@@ -23,7 +23,7 @@
     "ORCL": 3,
     "QQQ": 2,
     "RGTI": 5,
-    "RKLB": 4,
+    "RKLB": 5,
     "SMCI": 6,
     "SMH": 5,
     "SNDK": 9,
@@ -31,7 +31,11 @@
     "SPY": 1,
     "SPYG": 1,
     "VOO": 1,
-    "VST": 2
+    "VST": 2,
+    "ARKK": 1,
+    "IRDM": 1,
+    "PANW": 1,
+    "TEM": 2
   },
   "error_notified": false
 }
