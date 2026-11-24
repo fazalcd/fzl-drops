@@ -1,8 +1,5 @@
 {
-  "date": "2026-11-23",
-  "tiers": {
-    "CRWD": 12,
-    "VVX": 6
-  },
-  "error_notified": true
+  "date": "2026-11-24",
+  "tiers": {},
+  "error_notified": false
 }
