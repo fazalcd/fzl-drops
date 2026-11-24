@@ -38,12 +38,13 @@
     "TEM": 6,
     "QCOM": 2,
     "AVAV": 2,
-    "BB": 1,
+    "BB": 2,
     "GLD": 1,
     "NEM": 1,
     "DAL": 1,
     "META": 2,
-    "MP": 1
+    "MP": 1,
+    "CLYM": 1
   },
   "error_notified": false
 }
