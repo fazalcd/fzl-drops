@@ -48,7 +48,7 @@
     "SPMO": 3,
     "SPY": 2,
     "SPYG": 4,
-    "SYM": 2,
+    "SYM": 3,
     "TEM": 7,
     "UBER": 1,
     "VOO": 2,
@@ -56,7 +56,8 @@
     "VVX": 2,
     "ADBE": 1,
     "CMC": 1,
-    "ZS": 4
+    "ZS": 4,
+    "MH": 2
   },
   "error_notified": false
 }
