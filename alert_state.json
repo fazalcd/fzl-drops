@@ -1,5 +1,11 @@
 {
   "date": "2026-11-27",
-  "tiers": {},
+  "tiers": {
+    "ASTS": 4,
+    "CRWD": 1,
+    "NVDA": 1,
+    "PANW": 3,
+    "ZS": 1
+  },
   "error_notified": false
 }
