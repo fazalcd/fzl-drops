@@ -3,9 +3,10 @@
   "tiers": {
     "ASTS": 4,
     "CRWD": 1,
-    "NVDA": 1,
+    "NVDA": 2,
     "PANW": 3,
-    "ZS": 1
+    "ZS": 1,
+    "AMD": 1
   },
   "error_notified": false
 }
